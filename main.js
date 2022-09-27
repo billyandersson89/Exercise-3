@@ -13,3 +13,7 @@ function diff(a, b){
 function toCelsius(fahrenheit){
 	return (5/9) * (fahrenheit-32);
 }
+
+function quotient(a, b){
+	return a / b;
+}
