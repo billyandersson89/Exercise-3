@@ -11,3 +11,5 @@ Another merge conflict? yes
 Will this merge without conflict? yes it did. from feature
 
 Just to make another commit in feature
+
+This file is no longer in feature
